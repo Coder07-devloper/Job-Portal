@@ -56,6 +56,20 @@ A modern, responsive job portal built with React and Vite that connects job seek
 - **Layout**: Card-based design with subtle shadows
 - **Responsive**: Mobile-first approach
 
+##Screenshots
+
+**Main-DashBoard**
+<img width="1200" height="800" alt="Main_DashBoard" src="https://github.com/user-attachments/assets/d07a2132-2383-4a79-98ac-e71c7d3f3b23" />
+
+**Application-Form**
+<img width="1200" height="800" alt="Application_Form" src="https://github.com/user-attachments/assets/ed817f6a-397d-4ecf-a199-8992e4494d53" />
+
+**My-Application**
+<img width="1200" height="800" alt="My_Application" src="https://github.com/user-attachments/assets/c6d7cf0b-7948-4f38-a00a-dbdc49d338f4" />
+
+**Responsive-Layout**
+<img width="804" height="716" alt="Tab_View" src="https://github.com/user-attachments/assets/895f7154-c01a-44e4-a006-87968bbabedf" />
+
 ## 📁 Project Structure
 
 ```
